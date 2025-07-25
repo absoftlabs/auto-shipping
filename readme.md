@@ -17,7 +17,7 @@ This plugin automatically selects the appropriate shipping method on the WooComm
 ## ⚠️ Requirements
 
 - WooCommerce installed and active
-- [Weight Based Shipping](https://wordpress.org/plugins/weight-based-shipping/) plugin installed and configured
+- [Weight Based Shipping](https://github.com/absoftlabs/custom-weight-shipping) plugin installed and configured
 - Shipping method titles **must be**:
   - `Inside Dhaka`
   - `Outside Dhaka`
